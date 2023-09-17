@@ -28,14 +28,7 @@ Recreate this plot and use the `hue` option in seaborn scatter plot to **group b
 Create a **grid** of scatter plots, with each group **highlighted**.
 <img src="https://i.ibb.co/0Vyr6Nc/Screen-Shot-2019-10-15-at-20-34-17.png" width="760">
 
-### Optional - 3D Plot
 
-Recreate this 3D plot with **Plotly**. Use this documentation page: [https://plot.ly/python/3d-surface-plots/](https://plot.ly/python/3d-surface-plots/)
-
-The difficulty here will be to convert our **scatter plot** to a **density matrix** that will be used by **Plotly**.
-
-Only do this exercise if you are done with the map exercise.
-<img src="https://i.ibb.co/2nYn883/Screen-Shot-2019-10-15-at-22-21-50.png" width="760">
 
 ## Data
 
